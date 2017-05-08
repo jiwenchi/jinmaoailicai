@@ -1,0 +1,6 @@
+<view class="firstPageTopBanner">
+    <text>{{totalAssets}}</text>
+</view>
+<view class="firstPageTopBanner">
+    <text>{{totalAssets}}</text>
+</view>
